@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Development files
+*backup.py
+
+# Actual business files
+*.xlsx
